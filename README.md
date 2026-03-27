@@ -1,6 +1,6 @@
 # Checkmater
 
-![Checkmater logo](logo.png)
+![Checkmater logo](pluginIcon.svg)
 
 Checkmater is a free JetBrains plugin focused on fast chess practice inside the IDE.
 
