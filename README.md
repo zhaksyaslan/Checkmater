@@ -1,6 +1,6 @@
 # Checkmater
 
-![Checkmater logo](assets/logo.png)
+![Checkmater logo](logo.png)
 
 Checkmater is a free JetBrains plugin focused on fast chess practice inside the IDE.
 
@@ -21,19 +21,19 @@ The plugin currently includes two local play modes:
 
 ### Home
 
-![Home screen](assets/home-screen.png)
+![Home screen](home-screen.png)
 
 ### Puzzle Mode
 
-![Puzzle screen](assets/puzzle-screen.png)
+![Puzzle screen](puzzle-screen.png)
 
 ### Bot Mode
 
-![Bot screen](assets/bot-screen.png)
+![Bot screen](bot-screen.png)
 
 ### Puzzle Result
 
-![Mate screen](assets/mate-screen.png)
+![Mate screen](mate-screen.png)
 
 ## Positioning
 
