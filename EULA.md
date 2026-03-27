@@ -17,7 +17,7 @@ This license is granted for a free plugin. No ownership rights are transferred t
 You may:
 
 - install and use the Plugin for personal, educational, evaluation, and internal business purposes;
-- use local-only features and, where available, optional online features;
+- use the local puzzle and bot-play features included in the Plugin;
 - modify the source code only if you separately receive rights under an applicable open-source license or direct written permission from the copyright holder.
 
 ## 3. Restrictions
@@ -27,7 +27,7 @@ Unless applicable law requires otherwise, you may not:
 - redistribute, sublicense, sell, rent, lease, or commercially resupply the Plugin as a standalone product without permission;
 - remove copyright, attribution, or license notices from the Plugin;
 - use the Plugin in a way that violates law, third-party rights, platform rules, or JetBrains marketplace rules;
-- interfere with servers, APIs, or online systems used by the Plugin.
+- interfere with the Plugin or the JetBrains platform in a way that violates applicable rules or law.
 
 ## 4. Open Source and Third-Party Components
 
@@ -35,17 +35,15 @@ The repository may include or depend on third-party libraries, frameworks, or pl
 
 JetBrains products and services are not licensed to you under this EULA.
 
-## 5. Online Features
+## 5. Local Features Only
 
-Some Plugin features may connect to a backend service, including authentication, gameplay, room, queue, challenge, and history functionality.
+This Plugin is licensed as a local plugin for chess puzzles and local play against a bot.
 
-Availability of online features is not guaranteed. They may be changed, suspended, or removed at any time.
-
-When you use online features, you are also responsible for complying with any terms, privacy notices, and rules that apply to the backend service you connect to.
+This EULA does not grant any right to a separate hosted service, because internet multiplayer and online account features are not part of this plugin.
 
 ## 6. User Content and Conduct
 
-You are responsible for the data you submit through the Plugin, including usernames, credentials, room codes, and gameplay actions.
+You are responsible for your use of the Plugin and for any local content or settings you create through it.
 
 You must not use the Plugin to abuse services, harass other users, evade restrictions, or test against systems you do not own or have permission to use.
 
@@ -69,7 +67,7 @@ If liability cannot be excluded, it is limited to the minimum amount permitted b
 
 This EULA terminates automatically if you materially breach it.
 
-The publisher may suspend or terminate access to online features at any time. Upon termination, you must stop using the Plugin if required by applicable law or written notice.
+Upon termination, you must stop using the Plugin if required by applicable law or written notice.
 
 ## 11. Export, Sanctions, and Compliance
 
